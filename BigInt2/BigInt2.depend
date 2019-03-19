@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1552936748 source:/home/alex/proga/MIPT/C++/perepic/MY_CLASSES/BigInt2/BigInt2.cpp
+	"BigInt2.h"
+	<cassert>
+
+1552937795 /home/alex/proga/MIPT/C++/perepic/MY_CLASSES/BigInt2/BigInt2.h
+	<iostream>
+	<string.h>
+
+1552939222 source:/home/alex/proga/MIPT/C++/perepic/MY_CLASSES/BigInt2/main.cpp
+	<iostream>
+	"BigInt2.h"
+	"string.h"
+
+1552687725 source:/home/alex/proga/MIPT/C++/perepic/MY_CLASSES/BigInt2/string.cpp
+	"string.h"
+
+1552670932 /home/alex/proga/MIPT/C++/perepic/MY_CLASSES/BigInt2/string.h
+	<iostream>
+
+1552670932 /home/alex/proga/MIPT/C++/perepic/MY_CLASSES/BigInt2//string.h
+	<iostream>
+

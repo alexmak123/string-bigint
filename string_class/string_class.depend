@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1552400389 source:/home/alex/proga/MIPT/C++/perepic/string_class/main.cpp
+	<iostream>
+	<string.h>
+
+1552388136 /home/alex/proga/MIPT/C++/perepic/string_class//string.h
+	<iostream>
+
+1552388136 source:/home/alex/proga/MIPT/C++/perepic/string_class/string.cpp
+	"string.h"
+
+1552388136 /home/alex/proga/MIPT/C++/perepic/string_class/string.h
+	<iostream>
+
